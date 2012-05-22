@@ -31,7 +31,5 @@ function checkGuided(){
 		{
 			echo 'You are the first time here, plz see the tutorial here to proceed';
 			header("location: guide.php");
-		}	
-		
+		}		
 }
-
