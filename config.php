@@ -16,8 +16,8 @@ $CFG->dboptions = array (
   'dbsocket' => 0,
 );
 
-$CFG->wwwroot   = 'http://www.motest.com:8080/moodle';
-$CFG->dataroot  = 'C:\\Zend\\Apache2\\moodledata';
+$CFG->wwwroot   = 'http://motest.com:8080/sgeivw';
+$CFG->dataroot  = 'C:\\pgm\\xampp\\moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
