@@ -16,7 +16,7 @@ $CFG->dboptions = array (
   'dbsocket' => 0,
 );
 
-$CFG->wwwroot   = 'http://www.motest.com:8080/moodle';
+$CFG->wwwroot   = 'http://www.motest.com:8080/sgeivw';
 $CFG->dataroot  = 'C:\\Zend\\Apache2\\moodledata';
 $CFG->admin     = 'admin';
 
