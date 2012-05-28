@@ -18,6 +18,7 @@ $CFG->dboptions = array (
 
 $CFG->wwwroot   = 'http://motest.com:8080/sgeivw';
 $CFG->dataroot  = 'C:\\pgm\\xampp\\moodledata';
+
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
