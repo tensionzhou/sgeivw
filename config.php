@@ -22,7 +22,8 @@ $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
 
-$CFG->passwordsaltmain = 'yq_QX6 ?jD9x.!f}fv#UhgG^ZR4#U1l';
+// $CFG->passwordsaltmain = 'yq_QX6 ?jD9x.!f}fv#UhgG^ZR4#U1l';
+$CFG->passwordsaltmain = '+j:nJ]RE~}n:Wn8sLV-B:{0W 0P';
 
 require_once(dirname(__FILE__) . '/lib/setup.php');
 
